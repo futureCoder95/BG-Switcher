@@ -1,0 +1,41 @@
+img {
+    height: auto;
+    width: 80%;
+    margin: 0 130px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.colors {
+    text-align: center;
+    /* margin-left: 60px; */
+}
+
+.btn {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border: 1px solid grey;
+    cursor: pointer;
+}
+
+#red {
+    background-color: red;
+}
+
+#pink {
+    background-color: #000000;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: #00008B;
+}
+#white{
+    background-color: #ffffff;
+}
